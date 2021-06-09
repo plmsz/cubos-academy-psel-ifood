@@ -1,6 +1,4 @@
-# cubos-academy-psel-ifood
-
-# Header/👩‍💻 Desafios Cubos Academy
+# 👩‍💻 Desafios Cubos Academy
 
 
 ## 📋 Sobre: Desafios realizados para o processo seletivo para bolsa em programação realizada pela Cubos Academy + Ifood 
